@@ -1,0 +1,13 @@
+<svg width="300" height="600" viewBox="0 0 300 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Contorno de la funda -->
+  <path d="M30 80C30 46.8629 56.8629 20 90 20H210C243.137 20 270 46.8629 270 80V520C270 553.137 243.137 580 210 580H90C56.8629 580 30 553.137 30 520V80Z" stroke="#8B5CF6" stroke-width="2"/>
+  
+  <!-- Detalles de la funda -->
+  <rect x="50" y="40" width="200" height="520" rx="20" stroke="#8B5CF6" stroke-width="1" stroke-dasharray="4 4"/>
+  
+  <!-- Cámara y botones -->
+  <circle cx="150" cy="60" r="15" stroke="#8B5CF6" stroke-width="2"/>
+  <rect x="20" y="150" width="5" height="60" rx="2.5" fill="#8B5CF6"/>
+  <rect x="20" y="250" width="5" height="60" rx="2.5" fill="#8B5CF6"/>
+  <rect x="275" y="150" width="5" height="100" rx="2.5" fill="#8B5CF6"/>
+</svg>
