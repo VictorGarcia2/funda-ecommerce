@@ -6,7 +6,6 @@ import { collection, addDoc } from 'firebase/firestore';
 import { ExclamationCircleIcon } from '@heroicons/react/24/outline';
 import WebFont from 'webfontloader';
 import { debounce } from 'lodash';
-
 const CustomizeCase = () => {
   const { user } = useAuth();
   const [layers, setLayers] = useState([]);
